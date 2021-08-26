@@ -3,9 +3,9 @@ Aplicativo de lista de cartão de visita onde é possível manter os dados nome,
 
 
 Tecnologias utilizadas
-Room
-MVVM
-ViewBinding
-LiveData
-ListAdapter
-Material Design
+- Room
+- MVVM
+- ViewBinding
+- LiveData
+- ListAdapter
+- Material Design
